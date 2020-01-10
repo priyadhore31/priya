@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  int n,i;
-  int fact=1;
+  int n,i,fact=1;
   
   printf("Enter the number: ");
   scanf("%d",&n);
